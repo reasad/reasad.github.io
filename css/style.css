@@ -39,6 +39,10 @@ h2 {
   font-size: 1.35rem;
 }
 
+.subheading a{
+  text-transform: lowercase;
+}
+
 .list-social-icons a {
   color: #2a2e31;
 }
